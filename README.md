@@ -34,6 +34,12 @@ Once you have installed the plugin and changed the variables in **variables.php*
 https://www.yourwebsite.com/wp-admin/admin-ajax.php?action=apple_signin
 ```
 
+After that use the following shortcode where ever you wish to display Apple singin button
+
+```
+[apple_signin_button]
+```
+
 ## Technologies Used
 
 **Server:** WordPress, PHP, Apple Developer
